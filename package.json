@@ -17,7 +17,7 @@
     "restify": "^8.4.0",
     "restify-jwt-community": "^1.1.0",
     "saslprep": "^1.0.3",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
